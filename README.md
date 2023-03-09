@@ -18,6 +18,8 @@ This project is a text editor that runs in the browser and meets the criteria of
 - npm install --save-dev css-loader (CSS-loader)
 - npm install concurrently --save (run multiple commands concurrently.) (Concurrently)
 - npm install idb (IndexedDB)
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
 ## Questions
 For any questions or bugs, contact me at Github: https://github.com/alexandriawhite or Email: alexandriacwhite@comcast.net
