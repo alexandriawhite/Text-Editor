@@ -2,8 +2,8 @@
 ## Description 
 This project is a text editor that runs in the browser and meets the criteria of a Progressive Web Application (PWA). The application features data persistence techniques for reliability and can function offline. The app is built with the idb package, which provides a lightweight wrapper around the IndexedDB API, and is bundled with webpack. Additionally, the application has a registered service worker using workbox and can be installed as a Progressive Web App.
 ## Table of Contents
-- [Installation](#installation)
 - [Heroku](#heroku)
+- [Installation](#installation)
 - [License](#license)
 ## Heroku
 - https://protected-reef-71267.herokuapp.com/
